@@ -1,5 +1,5 @@
 {
-  "show": false,
+  "show": true,
   "title": "New Update Available",
   "message": "Version 8.9 is released! Please update now.",
   "blink": true
